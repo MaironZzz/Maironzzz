@@ -12,6 +12,9 @@ Hi, I am 207 moons old. I count everything in moons, it is very confusing for pe
 * 🤝  I'm open to collaborating on breaking stuff with code/BlockChain Tech.
 * ⚡  I have a cat named Git. And i plug bad usb into library computers.
 
+<a href="https://www.github.com/MaironZzz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MaironZzz?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
+
 ### Skills
 
 
@@ -22,7 +25,7 @@ Hi, I am 207 moons old. I count everything in moons, it is very confusing for pe
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/tylerdurden4735" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/MaironZzz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/MaironZzz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
@@ -31,5 +34,3 @@ Hi, I am 207 moons old. I count everything in moons, it is very confusing for pe
 <a href="http://www.github.com/MaironZzz"><img src="https://github-readme-stats.vercel.app/api?username=MaironZzz&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="MaironZzz's GitHub stats" /></a>
 
 <a href="http://www.github.com/MaironZzz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MaironZzz&stroke=a855f7&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-
-<a href="http://www.github.com/MaironZzz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MaironZzz&bg_color=22272e&color=a855f7&line=3382ed&point=a855f7&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
