@@ -10,7 +10,7 @@ Hi, I am 207 moons old. I count everything in moons, it is very confusing for pe
 * ✉️  You can contact me at [officialmaironzzz@gmail.com](mailto:officialmaironzzz@gmail.com)
 * 🧠  I'm learning C++/PYTHON/HTML
 * 🤝  I'm open to collaborating on breaking stuff with code/BlockChain Tech.
-* ⚡  I have a cat named Git. And i plug bad usb into library computers.
+* ⚡    Where did the hacker go? he Ransomware. And i plug bad usb into library computers.
 
 <a href="https://www.github.com/MaironZzz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MaironZzz?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
