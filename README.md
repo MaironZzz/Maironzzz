@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MaironZzz
 =================================================================================================================================
 
-Malware Creater/Bad Usb
+I am a script Kiddie in arch.
 -----------------------
 
 Hi, There i like the concept of the backrooms it is very confusing for my freind. I like to destroy stuff with code so that's mostly what I do.
