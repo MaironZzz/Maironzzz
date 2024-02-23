@@ -9,8 +9,8 @@ Hi, There i like the concept of the backrooms it is very confusing for my freind
 * 🌍  I'm based in Norway
 * ✉️  You can contact me at [officialmaironzzz@gmail.com](mailto:officialmaironzzz@gmail.com)
 * 🧠  Im tryin Python out.
-* 🤝  i Dont know what im open to yet, but il fugure that part out.
-* ⚡    Ill just be honest here i dont have non.
+* 🤝  i Dont know what im open to yet, but il figure that part out.
+* ⚡  just be honest here i dont have non. Actually im ok, with virtualization, if thats how i spell it.
 
 <a href="https://www.github.com/MaironZzz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MaironZzz?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
