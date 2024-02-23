@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Malware Creater/Bad Usb
 -----------------------
 
-Hi, I am 207 moons old. I count everything in moons, it is very confusing for people. I like to destroy stuff with code so that's mostly what I do.
+Hi, There i like the concept of the backrooms it is very confusing for my freind. I like to destroy stuff with code so that's mostly what I do.
 
 * 🌍  I'm based in Norway
 * ✉️  You can contact me at [officialmaironzzz@gmail.com](mailto:officialmaironzzz@gmail.com)
-* 🧠  I'm learning C++/PYTHON/HTML
-* 🤝  I'm open to collaborating on breaking stuff with code/BlockChain Tech.
-* ⚡    Where did the hacker go? he Ransomware. And i plug bad usb into library computers.
+* 🧠  Im tryin Python out.
+* 🤝  i Dont know what im open to yet, but il fugure that part out.
+* ⚡    Ill just be honest here i dont have non.
 
 <a href="https://www.github.com/MaironZzz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MaironZzz?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
