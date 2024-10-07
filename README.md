@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MaironZzz
 =================================================================================================================================
 
-I am a script Kiddie in arch.
+I am a script Kiddie in arch linux.
 -----------------------
 
 Hi, There i like the concept of the backrooms it is very confusing for my freind. I like to destroy stuff with code so that's mostly what I do.
@@ -9,8 +9,8 @@ Hi, There i like the concept of the backrooms it is very confusing for my freind
 * 🌍  I'm based in Norway
 * ✉️  You can contact me at [officialmaironzzz@gmail.com](mailto:officialmaironzzz@gmail.com)
 * 🧠  Im tryin Python out.
-* 🤝  i Dont know what im open to yet, but il figure that part out.
-* ⚡  just be honest here i dont have non. Actually im ok, with virtualization, if thats how i spell it.
+* 🤝  i currently in it education.
+* ⚡  I am good with proxmox.
 
 <a href="https://www.github.com/MaironZzz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MaironZzz?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
